@@ -7,6 +7,7 @@ const stocks = [
   { ticker: 'GOOGL', name: '알파벳'},
   { ticker: 'UBXG', name: 'U-BX 테크놀로지'},
   { ticker: 'BCDA', name: '바디오카디아'},
+  { ticker: '005930.KS', name: 'SUMSUNG'},
 //  { ticker: '005930.KS', name: '삼성전자', currentPrice: 85400, previousClose: 84700 },
 ]
 
